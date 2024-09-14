@@ -4,6 +4,7 @@ HR Pulse Analyzer is a data analytics project designed to analyze human resource
 
 # Project Overview
 The goal of this project is to:
+
 Analyze HR data to uncover trends and patterns.
 
 Use Tableau for interactive data visualization and exploration.
