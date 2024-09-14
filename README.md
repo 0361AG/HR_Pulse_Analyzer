@@ -18,3 +18,8 @@ Tableau Dashboards: Create interactive dashboards to visualize HR metrics and tr
 
 Insights: Derive actionable insights to enhance HR strategies and decision-making.
 
+# Dataset downloaded from Kaggle
+
+Dataset name - HR Data
+
+
